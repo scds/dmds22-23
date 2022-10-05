@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting Started
+title: What Is Digital Scholarship? Panel
 nav_order: 3
 ---
 
