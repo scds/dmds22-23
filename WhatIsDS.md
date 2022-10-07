@@ -6,7 +6,7 @@ nav_order: 2
 
 ## What is Digital Scholarship? A Panel Discussion
 
-
+<img src="assets/img/What Is DS Poster - White BG.png" alt="Workshop Title Slide" width="720">
 
 Have you ever wanted to learn more about Digital Scholarship? This constantly evolving field includes data analysis and visualization, Digital Humanities, and beyond. Join the conversation by watching the recording of this panel and learn about the many possibilities for those working in Digital Scholarship.
 
