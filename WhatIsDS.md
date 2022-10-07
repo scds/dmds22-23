@@ -25,6 +25,6 @@ Presentations include (in order of presenter):
 View the original [here](https://echo360.ca/media/3cd3291e-db99-49c7-ab78-6265c1677798/public). 
 
 ## Links
-[Learning in Colour](https://socialsciences.mcmaster.ca/learning-in-colour)
-[Research Data Management](https://rdm.mcmaster.ca/) Services at McMaster
-[DASH: The Data Analysis Support Hub](https://library.mcmaster.ca/services/dash)
+- [Learning in Colour](https://socialsciences.mcmaster.ca/learning-in-colour)
+- [Research Data Management](https://rdm.mcmaster.ca/) Services at McMaster
+- [DASH: The Data Analysis Support Hub](https://library.mcmaster.ca/services/dash)
