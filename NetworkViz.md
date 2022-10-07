@@ -4,27 +4,21 @@ title: Network Visualizations with Gephi
 nav_order: 3
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
+## Network Visualizations with Gephi
 
+<img src="assets/img/Network Viz Gephi - White BG.png" alt="Workshop Title Slide" width="720">
 
-<!--
+Learn to graph data and visualize networks at this virtual workshop on Gephi. Participants will learn how graph data can help express relationships between entities and visualize networks for Humanities scholars with a dataset based on characters in the popular TV show Game of Thrones.
 
-# Workshop preparation 
+Presentation by Subhanya Sivajothy, Data Analysis and Visualization Librarian. 
+Feel free to contact Subhanya about data visualization and Gephi by emailing her at sivajos@mcmaster.ca 
 
-Preparation for this tutorial consists of two steps: [Getting the data](#get-the-data) and [Getting the software](#get-the-software). Follow the steps below. 
-  
-## Get the data
+## Download Gephi and the Datasets
+- Download [Gephi](https://gephi.org/)
+- Download the [two datasets](https://libguides.mcmaster.ca/c.php?g=728979&p=5260753) (located at the very top of the webpage)
 
-You will have an opportunity to download the data during the workshop; however, if you would like to do so ahead of time, it can be downloaded [here](https://github.com/scds/intro-tableau/raw/main/data/humdata_GHGEmissionsGES.xlsx).
+## Workshop recording
 
-## Get the software
-This hands-on workshop uses [**Tableau**](https://www.tableau.com/), a software application for data visualization. We ask that you download Tableau in advance of the workshop to be able to participate in it to the fullest extent.
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/06521d2e-1a2a-45fc-83f8-a834f91fce1c/public"></iframe>
 
-You have three options for downloading Tableau:
-1. [Tableau Public](https://public.tableau.com/en-us/s/) (limited version)
-2. A 14-day trial of [Tableau Desktop](https://www.tableau.com/products/trial)
-3. A 1-year instructor or student license for [Tableau Desktop for academic purposes](https://www.tableau.com/academic/teaching) 
-
-The three options will be discussed further during the workshop; for now, we recommend Tableau Public or the 14-day trial of Tableau Desktop. Please contact the [Sherman Centre](mailto:scds@mcmaster.ca) if you have any difficulties downloading or opening the software.
-
--->
+View the original [here](https://echo360.ca/media/06521d2e-1a2a-45fc-83f8-a834f91fce1c/public). 
