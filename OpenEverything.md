@@ -24,3 +24,7 @@ Hosted by Jay Brodeur, Associate Director of Digital Scholarship Services and Ad
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/5d1b85c6-9698-4109-8811-e71da72b591b/public"></iframe>
 
 View the original [here](https://echo360.ca/media/5d1b85c6-9698-4109-8811-e71da72b591b/public). 
+
+## Workshop slides
+
+[View Joanne Kehoe's slide deck.](https://docs.google.com/presentation/d/16G_XuFQtzZ4mqXhmLxFqxHBhnhUyHPTp1NQy5U77dq8/edit#slide=id.p1)
