@@ -17,7 +17,3 @@ In this talk, Professor [Andy Roddick](https://socialsciences.mcmaster.ca/people
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/23dc9341-a323-41cc-943b-98e740208a7a/public"></iframe>
 
 View the original [here](https://echo360.ca/media/23dc9341-a323-41cc-943b-98e740208a7a/public). 
-
-## Workshop materials
-
-[View Dr. Andy Roddick's GoogleDoc on Obsidian and Digital Note-Taking in Academia.](https://docs.google.com/document/d/1365bPgh4iv-MciZx9BiguCJRJo-D3Zh7J_mrT-_Ws6g/edit)
