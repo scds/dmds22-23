@@ -1,7 +1,7 @@
 # Do More with Digital Scholarship Webinars
 Materials for 2022-2023 DMDS Workshops  
 
-This repository contains workshop files, as well as files used to create the [webpage](https://scds.github.io/dmds-22-23) with GitHub Pages. 
+This repository contains workshop files, as well as files used to create the [webpage](https://scds.github.io/dmds-22-23/Intro.html) with GitHub Pages. 
 
 
 Contributions by the following individuals: 
