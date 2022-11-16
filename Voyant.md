@@ -17,7 +17,10 @@ Feel free to contact Subhanya about data visualization and textual analysis by e
 You can use Voyant on your [browser](https://voyant-tools.org/).
 
 ## Workshop recording
-Coming Soon
+
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/1b50bff1-4c60-4c36-87c7-f1e5140dffc7/public"></iframe>
+
+View the original [here](https://echo360.ca/media/1b50bff1-4c60-4c36-87c7-f1e5140dffc7/public). 
 
 ## Workshop slides
 Coming Soon
