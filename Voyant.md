@@ -23,4 +23,7 @@ You can use Voyant on your [browser](https://voyant-tools.org/).
 View the original [here](https://echo360.ca/media/1b50bff1-4c60-4c36-87c7-f1e5140dffc7/public). 
 
 ## Workshop slides
-Coming Soon
+
+<div style="position:relative;padding-top:66.25%;">
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/dmds-22-23/raw/main/assets/docs/Voyant Presentation.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
+</div>
