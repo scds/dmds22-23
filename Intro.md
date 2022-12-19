@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Intro to DMDS Webinars
+title: Home
 description: SCDS Do More with Digital Scholarship workshop series
 nav_order: 1
 ---
