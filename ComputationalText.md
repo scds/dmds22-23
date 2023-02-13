@@ -18,6 +18,17 @@ Presented by Jay Brodeur (Associate Director, Digital Scholarship Infrastructure
 For this workshop, you will need [OpenRefine](https://openrefine.org/) and a web browser. Follow the [instructions](https://librarycarpentry.org/lc-open-refine/setup.html) provided by the Library Carpentry to install OpenRefine on your system (whether it is Windows, Mac, or Linux).
 - **NOTE**: When opening OpenRefine for the first time in a Mac, you may need to open your security preferences and permit OpenRefine to run. See [Apple Support's Open a Mac app from an unidentified developer](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac)
 
+## Contents
+
+|Segment|Time Allotted|Key Topics / Activities|
+|:--|:--|:--|
+|**Introductory remarks**|20 minutes|Introduction to text preparation and analysis <br> Overview of concepts and methods <br> Key considerations for different source materials and analyses|
+|**OpenRefine**|40 minutes|Introduction to OpenRefine <br> Manual cleanup (e.g. find and replace) <br> Faceting|
+|**Getting Programmatic with Python**|20 minutes|Overview of programmatic approaches <br> The 'what' and 'when' to program <br> Using Python for text preparation|
+|**Break**|10 minutes|**Break**|
+|**Sampling of text analysis methods**|75 minutes|Named entity recognition <br> Topic Modeling <br> Stylometry <br> Sentiment analysis|
+|**Q & A; Final Thoughts**|10 minutes|Questions and wrap-up <br> Where to learn more |
+
 ## Workshop recording
 *Coming soon* 
 
