@@ -2,7 +2,7 @@
 layout: default
 title: Computational Text Prep and Analysis
 nav_order: 8
-has_children: true
+has_children: false
 ---
 
 ## Computational Approaches to Text Preparation and Analysis
@@ -20,6 +20,7 @@ For this workshop, you will need [OpenRefine](https://openrefine.org/) and a web
 
 ## Workshop recording
 *Coming soon* 
+
 <!--
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/1b50bff1-4c60-4c36-87c7-f1e5140dffc7/public"></iframe>
 
