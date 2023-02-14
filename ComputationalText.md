@@ -53,7 +53,7 @@ View the original [here](https://echo360.ca/media/1b50bff1-4c60-4c36-87c7-f1e514
 ## Learn more
 Here are a variety of helpful resources to explore and learn more
 
-## OpenRefine
+### OpenRefine
 - [Library Carpentry lesson on OpenRefine](https://librarycarpentry.github.io/lc-open-refine/setup.html)
 - [University of Toronto Libraries OpenRefine tutorials](https://mdl.library.utoronto.ca/tools/openrefine)
 - [OpenRefine Manual on Regular Expressions](https://docs.openrefine.org/manual/expressions#regular-expressions)
@@ -63,12 +63,12 @@ Here are a variety of helpful resources to explore and learn more
 	- [https://regex101.com/](https://regex101.com/)
 	- [Regexr](https://regexr.com/): Interactive regular expression (regex) coder and explainer
 
-## Python
+### Python & NLP
 
-### Python Integrated Development Environments
+#### Python Integrated Development Environments
 - There are many, many different Python IDEs. Find which one is [best for you](https://realpython.com/python-ides-code-editors-guide/). Jay is partial to [Pyzo](https://pyzo.org/).
 
-### Python packages for text prep and Natural Langauge Processing
+#### Python packages for text prep and Natural Langauge Processing
 - [PyTesseract](https://stackabuse.com/pytesseract-simple-python-optical-character-recognition): Simple Python Optical Character Recognition
 - [spaCy](https://spacy.io/usage/spacy-101/) NLP library and documentation
 - [NLTK](https://www.nltk.org/) NLP library and docmentation
@@ -76,7 +76,7 @@ Here are a variety of helpful resources to explore and learn more
 - [Python phonetics package](https://pypi.org/project/phonetics/#usage), which includes methods for matching and clustering words by phonetic similarity
 - [pyspellchecker](https://pyspellchecker.readthedocs.io/en/latest/): A simple Python-based spell checking algorithm
 
-### Other tutorials and resources
+#### Other tutorials and resources
 - [Constellate](https://constellate.org/) a comprehensive set of resources to learn how to build your text and data mining skills. 
 - [How to Clean Text for Machine Learning with Python](https://machinelearningmastery.com/clean-text-machine-learning-python/). An excellent step-by-step walkthrough of the fundamentals of text prep with Python.
 - [Python Regex (Regular Expressions) for Data Scientists](https://www.dataquest.io/blog/regular-expressions-data-scientists/)
