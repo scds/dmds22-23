@@ -83,6 +83,7 @@ Here are a variety of helpful resources to explore and learn more
 - [natas](https://pypi.org/project/natas/): Library for  processing historical English corpora, especially for studying neologisms
 - [Python phonetics package](https://pypi.org/project/phonetics/#usage), which includes methods for matching and clustering words by phonetic similarity
 - [pyspellchecker](https://pyspellchecker.readthedocs.io/en/latest/): A simple Python-based spell checking algorithm
+- [BookNLP](https://github.com/booknlp/booknlp): A natural language processing pipeline that scales to books and other long documents (in English).
 
 #### Other tutorials and resources
 - [Constellate](https://constellate.org/) a comprehensive set of resources to learn how to build your text and data mining skills. 
