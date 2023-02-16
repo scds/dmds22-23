@@ -24,10 +24,18 @@ For this workshop, you will need [OpenRefine](https://openrefine.org/) and a web
 |:--|:--|:--|
 |**Introductory remarks**|20 minutes|Introduction to text preparation and analysis <br> Overview of concepts and methods <br> Key considerations for different source materials and analyses|
 |**OpenRefine**|40 minutes|Introduction to OpenRefine <br> Manual cleanup (e.g. find and replace) <br> Faceting|
-|**Getting Programmatic with Python** |20 minutes|Overview of programmatic approaches <br> The 'what' and 'when' to program <br> Using Python for text preparation <br> [Link to notebook](https://colab.research.google.com/drive/1H-QtI6gCdM7XynuBl494nkSb5qnoy0dC?usp=sharing)|
+|**Getting Programmatic with Python** |20 minutes|Overview of programmatic approaches <br> The 'what' and 'when' to program <br> Using Python for text preparation <br> [Link to notebook](https://u.mcmaster.ca/dmds-text-prep)|
 |**Break**|10 minutes|**Break**|
-|**Sampling of text analysis methods**|75 minutes|Named entity recognition <br> Topic Modeling <br> Sentiment analysis ([Link to notebook](https://colab.research.google.com/drive/1zgAFfyfX5vA0yEPqOscua_33mQi5R2nB?usp=sharing))|
+|**Sampling of text analysis methods**|75 minutes|Named entity recognition ([Link to notebook](https://u.mcmaster.ca/dmds-ner))<br> Topic Modeling ([Link to notebook](https://u.mcmaster.ca/dmds-topics))<br> Sentiment analysis ([Link to notebook](https://u.mcmaster.ca/dmds-sentimental))|
 |**Q & A; Final Thoughts**|10 minutes|Questions and wrap-up <br> Where to learn more |
+
+## Workshop notebooks
+Most of our work will be done using jupyter notebooks hosted in Google Colab.
+- [Introduction to programmatic text prep](https://u.mcmaster.ca/dmds-text-prep)
+- [Named entity recognition (NER)](https://u.mcmaster.ca/dmds-ner)
+- [Topic modeling](https://u.mcmaster.ca/dmds-text-prep)
+- [Sentiment analysis](https://u.mcmaster.ca/sentimental)
+
 
 ## Workshop recording
 *Coming soon* 
