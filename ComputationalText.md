@@ -38,13 +38,9 @@ Most of our work will be done using jupyter notebooks hosted in Google Colab.
 
 
 ## Workshop recording
-*Coming soon* 
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/12af901f-4582-4b13-92c5-6e7915e99dcd/public"></iframe>
 
-<!--
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/1b50bff1-4c60-4c36-87c7-f1e5140dffc7/public"></iframe>
-
-View the original [here](https://echo360.ca/media/1b50bff1-4c60-4c36-87c7-f1e5140dffc7/public). 
--->
+View the original [here](https://echo360.ca/media/12af901f-4582-4b13-92c5-6e7915e99dcd/public). 
 
 
 ## Workshop slides
