@@ -10,6 +10,8 @@ nav_order: 9
 
 Twine is a beginner-friendly platform for building Choose Your Own Adventure Games. Follow along with the four tutorial videos below to get started with Twine. All videos use the Harlowe 3.3.4 story format. 
 
+These tutorials were made for HUM2DH3: Creative, Collaborative, Critical: Introduction to Digital Scholarship. Sections of the videos relate directly to an assignment where students create a retelling of Frankenstein through a Twine Game. However, the majority of each video functions as a general introduction to Twine Games. 
+
 Asynchronous Tutorials by Veronica Litt, Digital Scholarship Coordinator.
 Feel free to contact Veronica about Twine by emailing her at littvs@mcmaster.ca
 
