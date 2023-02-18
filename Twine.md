@@ -8,13 +8,13 @@ nav_order: 9
 
 <img src="assets/img/TitleSlide.png" alt="Workshop Title Slide" width="720">
 
-Learn to graph data and visualize networks at this virtual workshop on Gephi. Participants will learn how graph data can help express relationships between entities and visualize networks for Humanities scholars with a dataset based on characters in the popular TV show Game of Thrones.
+Twine is a beginner-friendly platform for building Choose Your Own Adventure Games. Follow along with the four tutorial videos below to get started with Twine. All videos use the Harlowe 3.3.4 story format. 
 
 Asynchronous Tutorials by Veronica Litt, Digital Scholarship Coordinator.
 Feel free to contact Veronica about Twine by emailing her at littvs@mcmaster.ca
 
 ## Download Twine
-- Download [Twine] for Desktop (https://twinery.org/)
+- Download [Twine](https://twinery.org/) for Desktop.
 
 ## Twine Tutorial 1: Building Your Twine Game
 
@@ -43,7 +43,7 @@ View the original [here](https://echo360.ca/media/91056fdd-2929-4daf-be3d-c57dba
 ## Resources and Support
 
 - [Twine Code Cheat Sheet](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/littvs_mcmaster_ca/Ety7y88_kJ5Crrg7YLLNHocBG5ZknYI10VRhfNP76RXvfg?e=NxmK2I) 
-Note that you can download the Cheat Sheet, then copy and paste the codes. I have disabled the "Edit" option so that I can ensure that the codes are not altered by other users. 
+- Note that you can download the Cheat Sheet, then copy and paste the codes. I have disabled the "Edit" option so that I can ensure that the codes are not altered by other users. 
 - Access the [Twine Cookbook](https://twinery.org/cookbook/), a helpful resource for all things related to Twine.
 - Register for [itch.io](https://itch.io/).
 
