@@ -40,9 +40,9 @@ For the Twine Code Cheat sheet document, scroll down to "Resources and Support,"
 
 ## Twine Tutorial 4: Hosting Your Twine Game on itch.io
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/91056fdd-2929-4daf-be3d-c57dba78eef9/public"></iframe>
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/40f04344-4da6-4a53-a875-0afa34b30e24/public"></iframe>
 
-View the original [here](https://echo360.ca/media/91056fdd-2929-4daf-be3d-c57dba78eef9/public). 
+View the original [here](https://echo360.ca/media/40f04344-4da6-4a53-a875-0afa34b30e24/public). 
 
 ## Resources and Support
 
