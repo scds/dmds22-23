@@ -46,7 +46,7 @@ View the original [here](https://echo360.ca/media/40f04344-4da6-4a53-a875-0afa34
 
 ## Resources and Support
 
-- [Twine Code Cheat Sheet](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/littvs_mcmaster_ca/Ety7y88_kJ5Crrg7YLLNHocBG5ZknYI10VRhfNP76RXvfg?e=NxmK2I) 
+- [Twine Code Cheat Sheet](https://mcmasteru365-my.sharepoint.com/:w:/g/personal/littvs_mcmaster_ca/EUZxxT7qrPBPpqtEW6ULoUkBTCTT8tRZBhNkRbpeuPO06A?e=RxOkJc) 
 - Note that you can download the Cheat Sheet, then copy and paste the codes. I have disabled the "Edit" option so that I can ensure that the codes are not altered by other users. 
 - Access the [Twine Cookbook](https://twinery.org/cookbook/), a helpful resource for all things related to Twine.
 - Register for [itch.io](https://itch.io/).
