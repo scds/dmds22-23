@@ -82,6 +82,7 @@ Here are a variety of helpful resources to explore and learn more
 - [BookNLP](https://github.com/booknlp/booknlp): A natural language processing pipeline that scales to books and other long documents (in English).
 
 #### Other tutorials and resources
+- Check out Devon Mordell's two excellent text prep and analysis modules shared through the SCDS: [Pre-Processing Digitized Texts](https://scds.github.io/text-analysis-1/) and [Named Entity Recognition](https://scds.github.io/text-analysis-2/).
 - [Constellate](https://constellate.org/) a comprehensive set of resources to learn how to build your text and data mining skills. 
 - [How to Clean Text for Machine Learning with Python](https://machinelearningmastery.com/clean-text-machine-learning-python/). An excellent step-by-step walkthrough of the fundamentals of text prep with Python.
 - [Python Regex (Regular Expressions) for Data Scientists](https://www.dataquest.io/blog/regular-expressions-data-scientists/)
