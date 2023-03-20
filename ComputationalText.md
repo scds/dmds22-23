@@ -34,7 +34,7 @@ Most of our work will be done using jupyter notebooks hosted in Google Colab.
 - [Introduction to programmatic text prep](https://u.mcmaster.ca/dmds-text-prep)
 - [Named entity recognition (NER)](https://u.mcmaster.ca/dmds-ner)
 - [Topic modeling](https://u.mcmaster.ca/dmds-topics)
-- [Sentiment analysis](https://u.mcmaster.ca/sentimental)
+- [Sentiment analysis](https://u.mcmaster.ca/dmds-sentimental)
 
 
 ## Workshop recording
