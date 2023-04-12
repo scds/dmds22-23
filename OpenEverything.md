@@ -19,6 +19,8 @@ Hosted by Jay Brodeur, Associate Director of Digital Scholarship Services and Ad
 - Isaac Pratt, Research Data Management Specialist, McMaster University Library and Research and High Performance Computing Support (RHPCS). Topic: Open Methods.
 - Jay Brodeur, Associate Director, Digital Scholarship Services, McMaster University Library. Topic: Open Access (OA).
 
+[Book an appointment with these presenters or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
+
 ## Workshop recording
 
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/5d1b85c6-9698-4109-8811-e71da72b591b/public"></iframe>
