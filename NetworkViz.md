@@ -11,7 +11,7 @@ nav_order: 3
 Learn to graph data and visualize networks at this virtual workshop on Gephi. Participants will learn how graph data can help express relationships between entities and visualize networks for Humanities scholars with a dataset based on characters in the popular TV show Game of Thrones.
 
 Presentation by Subhanya Sivajothy, Data Analysis and Visualization Librarian. 
-Feel free to contact Subhanya about data visualization and Gephi by emailing her at sivajos@mcmaster.ca 
+[Book an appointment with Subhanya or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
 
 ## Download Gephi and the Datasets
 - Download [Gephi](https://gephi.org/)
