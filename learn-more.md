@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Learn More
-nav_order: 9
+nav_order: 11
 ---
 
 ## More Information
