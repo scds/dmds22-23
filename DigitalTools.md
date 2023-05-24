@@ -30,17 +30,17 @@ Coming Soon
 
 *Prefatory Material*
 - [The Sherman Centre for Digital Scholarship](https://scds.ca/)
-- [Native Land] (https://native-land.ca/)
-- [Code of Conduct for SCDS Events] (https://scds.ca/events/code-of-conduct/)
+- [Native Land](https://native-land.ca/)
+- [Code of Conduct for SCDS Events](https://scds.ca/events/code-of-conduct/)
 - [Certificate Program](https://scds.ca/certificate-program/)
-- [Book a Research Consultation] (https://scds.ca/research-consultations/)
+- [Book a Research Consultation](https://scds.ca/research-consultations/)
 - Access the [MENTI](https://www.menti.com/blhkfrkj9sfo)
 
 *Subhanya Sivajothy’s Presentation Links:*
 - [Catalogue of different visualizations](https://datavizcatalogue.com/)
-- [Research Guide to Data Visualizations] (https://libguides.mcmaster.ca/dataviz)
-- [Book an appointment with Subhanya] (https://libcal.mcmaster.ca/appointments/dataviz)
-- [Download Gephi] (https://gephi.org/users/download/)
+- [Research Guide to Data Visualizations](https://libguides.mcmaster.ca/dataviz)
+- [Book an appointment with Subhanya](https://libcal.mcmaster.ca/appointments/dataviz)
+- [Download Gephi](https://gephi.org/users/download/)
 
 *Jay Brodeur’s Presentation Links:*
 - [List of existing Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
@@ -58,17 +58,17 @@ Coming Soon
 
 *Veronica Litt’s Presentation Links:*
 - [Learn about HUM2DH3: Creative, Collaborative, Critical: Introduction to Digital Scholarship](https://scds.ca/events/courses/2022-2023/)
-- [Podcasting in 6 Simple Steps - Learning Module] (https://scds.github.io/podcasting/)
-- [Audio Editing with Audacity Video Tutorials] (https://scds.github.io/podcasting/2dh3.html)  
-- [Download Audacity] (https://www.audacityteam.org/download/)
-- [Twine Games - Learning Module] (https://scds.github.io/dmds-22-23/Twine.html) 
+- [Podcasting in 6 Simple Steps - Learning Module](https://scds.github.io/podcasting/)
+- [Audio Editing with Audacity Video Tutorials](https://scds.github.io/podcasting/2dh3.html)  
+- [Download Audacity](https://www.audacityteam.org/download/)
+- [Twine Games - Learning Module](https://scds.github.io/dmds-22-23/Twine.html) 
 - [Book a consultation with Veronica](https://libcal.mcmaster.ca/appointments)
 
 *Danica Evering’s Presentation Links:*
 - [Data Management Planning](http://rdm.mcmaster.ca/plan)
 - [DMP Assistant](https://assistant.portagenetwork.ca/) 
 - [Tri-Agency Research Data Management Policy]( https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy)
-- [NIH Data Management and Sharing Policy]( https://sharing.nih.gov/data-management-and-sharing-policy)
+- [NIH Data Management and Sharing Policy](https://sharing.nih.gov/data-management-and-sharing-policy)
 
 *Jay Brodeur’s Case Study Link:*
 - [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
