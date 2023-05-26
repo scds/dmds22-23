@@ -20,7 +20,9 @@ This session features four short presentations:
 
 ## Workshop recording
 
-Coming Soon
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/8c58986a-aed8-44b8-be90-2d7709cc400e/public"></iframe>
+
+View the original [here](https://echo360.ca/media/8c58986a-aed8-44b8-be90-2d7709cc400e/public). 
 
 ## Workshop slides
 
