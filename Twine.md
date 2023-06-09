@@ -18,6 +18,13 @@ Asynchronous Tutorials by Veronica Litt, Digital Scholarship Coordinator.
 ## Download Twine
 - Download [Twine](https://twinery.org/) for Desktop.
 
+## What is Twine and Why Should I Use it?
+This slide deck overviews the development of Choose Your Own Adventure games and texts, from an ancient divination manual to The Last of Us, then pivots to examine Twine's flexible functionality, and overview some examples of effective Twine games. 
+
+<div style="position:relative;padding-top:66.25%;">
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/dmds-22-23/raw/main/assets/docs/TGS.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
+</div>
+
 ## Twine Tutorial 1: Building Your Twine Game
 
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/a7dbf7d0-3bef-4e39-ae4d-2fb03a301d6e/public"></iframe>
