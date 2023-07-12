@@ -15,6 +15,6 @@ This workshop was presented by Veronica Litt (Digital Scholarship Coordinator) a
 
 ## Workshop materials
 
-Because this workshop was not recorded, we have created a [detailed online module](https://scds.github.io/podcasting/) including video tutorials. 
+Because this workshop was not recorded, we have created a [detailed online module](https://scds.github.io/podcasting/) including [video tutorials on editing audio](https://scds.github.io/podcasting/2dh3.html). 
 
 If you have questions about podcasting, please contact Veronica Litt at littvs@mcmaster.ca and Elaine Westenhoefer at westenev@mcmaster.ca 
