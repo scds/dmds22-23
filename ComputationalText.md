@@ -44,15 +44,10 @@ View the original [here](https://echo360.ca/media/12af901f-4582-4b13-92c5-6e7915
 
 
 ## Workshop slides
-*Coming soon*
-
-<!--
-
 <div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/dmds-22-23/raw/main/assets/docs/Voyant Presentation.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/dmds-22-23/raw/main/assets/docs/ctp-slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
 
--->
 
 ## Learn more
 Here are a variety of helpful resources to explore and learn more
