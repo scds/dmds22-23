@@ -4,9 +4,9 @@ title: What Is Digital Scholarship? Panel
 nav_order: 2
 ---
 
-## What is Digital Scholarship? A Panel Discussion
+<img src="assets/img/What Is DS Poster - White BG.png" alt="Workshop Title Slide" width="100%">
 
-<img src="assets/img/What Is DS Poster - White BG.png" alt="Workshop Title Slide" width="720">
+# What is Digital Scholarship? A Panel Discussion
 
 Have you ever wanted to learn more about Digital Scholarship? This constantly evolving field includes data analysis and visualization, Digital Humanities, and beyond. Join the conversation by watching the recording of this panel and learn about the many possibilities for those working in Digital Scholarship.
 
@@ -18,13 +18,13 @@ Presentations include (in order of presenter):
 - **Danica Evering** (Research Data Management Specialist) on her work bringing Research Data Management skills to the McMaster Community and the importance of proper RDM practices.
 - **Shaila Jamal** (PhD Candidate in Geography and Earth Sciences, past SCDS Graduate Resident, and current DASH Support Assistant) on her work creating an OER with Dr. Antonio Paez for a course offered in the Earth, Environment, and Society program. 
 
-## Workshop recording
+## Workshop Recording
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/3cd3291e-db99-49c7-ab78-6265c1677798/public"></iframe>
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/3cd3291e-db99-49c7-ab78-6265c1677798/public"></iframe>
 
-View the original [here](https://echo360.ca/media/3cd3291e-db99-49c7-ab78-6265c1677798/public). 
+[View the original here.](https://echo360.ca/media/3cd3291e-db99-49c7-ab78-6265c1677798/public)
 
-## Links
+## Links and Resources
 - [Learning in Colour](https://socialsciences.mcmaster.ca/learning-in-colour)
 - [Research Data Management](https://rdm.mcmaster.ca/) Services at McMaster
 - [DASH: The Data Analysis Support Hub](https://library.mcmaster.ca/services/dash)

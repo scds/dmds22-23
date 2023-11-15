@@ -1,12 +1,12 @@
 ---
 layout: default
 title: The Infinite Game
-nav_order: 11
+nav_order: 12
 ---
 
-## The Infinite Game: ChatGPT, Procedural Generation, and Large Language Models
+<img src="assets/img/IGP.png" alt="Workshop Title Slide" width="100%">
 
-<img src="assets/img/IGP.png" alt="Workshop Title Slide" width="720">
+# The Infinite Game: ChatGPT, Procedural Generation, and Large Language Models
 
 Since launching in late 2022, ChatGPT has sparked an ongoing, complex conversation about large language models and artificial intelligence. But where does this cutting-edge technology come from? What are its roots--and how can they help us understand today's software?
 
@@ -14,19 +14,18 @@ This webinar by John Fink (Digital Scholarship Librarian) explores the history o
 
 [Book an appointment with John Fink or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
 
-## Workshop recording
+## Workshop Recording
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/67275d90-9ef9-4d11-84db-efb88dfafbdd/public"></iframe>
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/67275d90-9ef9-4d11-84db-efb88dfafbdd/public"></iframe>
 
-View the original [here](https://echo360.ca/media/67275d90-9ef9-4d11-84db-efb88dfafbdd/public). 
+[View the original here.](https://echo360.ca/media/67275d90-9ef9-4d11-84db-efb88dfafbdd/public)
 
-## Workshop slides
+## Workshop Slides
+<embed src="assets/docs/IGSlides.pdf" style="border:none;" width="100%" height="466px">
 
-<div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/dmds-22-23/raw/main/assets/docs/IGSlides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
-</div>
+[Download as PDF.](assets/docs/IGSlides.pdf)
 
-## Links
+## Links and Resources
 
 - [Browse John Fink's materials on GitHub](https://github.com/jbfink/20230525-infinite-game)
 - [Browse links mentioned in the talk](https://github.com/jbfink/20230525-infinite-game/blob/main/links.txt)

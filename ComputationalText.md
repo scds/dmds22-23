@@ -5,15 +5,15 @@ nav_order: 8
 has_children: false
 ---
 
-## Computational Approaches to Text Preparation and Analysis
+<img src="assets/img/ComputationalText.png" alt="Workshop Title Slide" width="100%">
 
-<img src="assets/img/ComputationalText.png" alt="Workshop Title Slide" width="720">
+# Computational Approaches to Text Preparation and Analysis
 
 Are you interested in textual analysis but unsure about where to start? Join us for an interactive “no experience required” introduction to the fundamental concepts, processes, and methodological approaches for preparing and analyzing text using computational approaches. Following a general introduction to the topic, participants will be guided through prepared exercises that demonstrate how different software packages (OpenRefine, Python) can be used to prepare for and perform textual analysis.
 
 Presented by Jay Brodeur (Associate Director, Digital Scholarship Infrastructure & Services and Administrative Director of the Sherman Centre for Digital Scholarship) and Devon Mordell (Educational Developer, The MacPherson Institute for Teaching and Learning).
 
-## Preparation
+## Workshop Preparation
 
 For this workshop, you will need [OpenRefine](https://openrefine.org/) and a web browser. Follow the [instructions](https://librarycarpentry.org/lc-open-refine/setup.html) provided by the Library Carpentry to install OpenRefine on your system (whether it is Windows, Mac, or Linux).
 - **NOTE**: When opening OpenRefine for the first time in a Mac, you may need to open your security preferences and permit OpenRefine to run. See [this article](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) from Apple Support about opening a Mac app from an unidentified developer.
@@ -29,7 +29,7 @@ For this workshop, you will need [OpenRefine](https://openrefine.org/) and a web
 |**Sampling of text analysis methods**|75 minutes|Named entity recognition ([Link to notebook](https://u.mcmaster.ca/dmds-ner))<br> Topic Modeling ([Link to notebook](https://u.mcmaster.ca/dmds-topics))<br> Sentiment analysis ([Link to notebook](https://u.mcmaster.ca/dmds-sentimental))|
 |**Q & A; Final Thoughts**|10 minutes|Questions and wrap-up <br> Where to learn more |
 
-## Workshop notebooks
+## Workshop Notebooks
 Most of our work will be done using jupyter notebooks hosted in Google Colab.
 - [Introduction to programmatic text prep](https://u.mcmaster.ca/dmds-text-prep)
 - [Named entity recognition (NER)](https://u.mcmaster.ca/dmds-ner)
@@ -37,19 +37,19 @@ Most of our work will be done using jupyter notebooks hosted in Google Colab.
 - [Sentiment analysis](https://u.mcmaster.ca/dmds-sentimental)
 
 
-## Workshop recording
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/12af901f-4582-4b13-92c5-6e7915e99dcd/public"></iframe>
+## Workshop Recording
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/12af901f-4582-4b13-92c5-6e7915e99dcd/public"></iframe>
 
-View the original [here](https://echo360.ca/media/12af901f-4582-4b13-92c5-6e7915e99dcd/public). 
-
-
-## Workshop slides
-<div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/dmds-22-23/raw/main/assets/docs/ctp-slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
-</div>
+[View the original here.](https://echo360.ca/media/12af901f-4582-4b13-92c5-6e7915e99dcd/public).
 
 
-## Learn more
+## Workshop Slides
+
+<embed src="assets/docs/ctp-slides.pdf" style="border:none;" width="100%" height="466px">
+
+[Download as PDF.](assets/docs/ctp-slides.pdf)
+
+## Links and Resources
 Here are a variety of helpful resources to explore and learn more
 
 ### OpenRefine

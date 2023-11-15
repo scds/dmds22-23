@@ -4,15 +4,17 @@ title: Intro to Twine Games
 nav_order: 9
 ---
 
-## Intro to Twine Games
+<img src="assets/img/TitleSlide.png" alt="Workshop Title Slide" width="100%">
 
-<img src="assets/img/TitleSlide.png" alt="Workshop Title Slide" width="720">
+# Intro to Twine Games
 
 Twine is a beginner-friendly platform for building Choose Your Own Adventure Games. Follow along with the four tutorial videos below to get started with Twine. All videos use the Harlowe 3.3.4 story format. 
 
 These tutorials were made for HUM2DH3: Creative, Collaborative, Critical: Introduction to Digital Scholarship. Sections of the videos relate directly to an assignment where students create a retelling of Frankenstein through a Twine Game. However, the majority of each video functions as a general introduction to Twine Games. 
 
-Asynchronous Tutorials by Veronica Litt, Digital Scholarship Coordinator.
+**The materials for this workshop are available here:** <https://scds.github.io/intro-twine/>
+
+<!-- Asynchronous Tutorials by Veronica Litt, Digital Scholarship Coordinator.
 [Book an appointment with Veronica or another member of the Sherman Centre Team.](https://libcal.mcmaster.ca/appointments/)
 
 ## Download Twine
@@ -27,34 +29,34 @@ This slide deck overviews the development of Choose Your Own Adventure games and
 
 ## Twine Tutorial 1: Building Your Twine Game
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/a7dbf7d0-3bef-4e39-ae4d-2fb03a301d6e/public"></iframe>
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/a7dbf7d0-3bef-4e39-ae4d-2fb03a301d6e/public"></iframe>
 
-View the original [here](https://echo360.ca/media/a7dbf7d0-3bef-4e39-ae4d-2fb03a301d6e/public). 
+[View the original here.](https://echo360.ca/media/a7dbf7d0-3bef-4e39-ae4d-2fb03a301d6e/public)
 
 ## Twine Tutorial 2: Customizing the Appearance of Text on Twine
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/58291217-e6cc-405a-9f56-71791a512c92/public"></iframe>
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/58291217-e6cc-405a-9f56-71791a512c92/public"></iframe>
 
-View the original [here](https://echo360.ca/media/58291217-e6cc-405a-9f56-71791a512c92/public). 
+[View the original here.](https://echo360.ca/media/58291217-e6cc-405a-9f56-71791a512c92/public)
 
 ## Twine Tutorial 3: Customizing Your Twine Game with Code
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/1df5b5d4-65ad-49ed-b9f9-152987c665ac/public"></iframe>
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/1df5b5d4-65ad-49ed-b9f9-152987c665ac/public"></iframe>
 
-View the original [here](https://echo360.ca/media/1df5b5d4-65ad-49ed-b9f9-152987c665ac/public). 
+[View the original here.](https://echo360.ca/media/1df5b5d4-65ad-49ed-b9f9-152987c665ac/public)
 
 For the Twine Code Cheat sheet document, scroll down to "Resources and Support," located below the video tutorials.
 
 ## Twine Tutorial 4: Hosting Your Twine Game on itch.io
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/40f04344-4da6-4a53-a875-0afa34b30e24/public"></iframe>
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/40f04344-4da6-4a53-a875-0afa34b30e24/public"></iframe>
 
-View the original [here](https://echo360.ca/media/40f04344-4da6-4a53-a875-0afa34b30e24/public). 
+[View the original here.](https://echo360.ca/media/40f04344-4da6-4a53-a875-0afa34b30e24/public)
 
 ## Resources and Support
 
 - [Twine Code Cheat Sheet](https://mcmasteru365-my.sharepoint.com/:w:/g/personal/littvs_mcmaster_ca/EUZxxT7qrPBPpqtEW6ULoUkBTCTT8tRZBhNkRbpeuPO06A?e=RxOkJc) 
 - Note that you can download the Cheat Sheet, then copy and paste the codes. I have disabled the "Edit" option so that I can ensure that the codes are not altered by other users. 
 - Access the [Twine Cookbook](https://twinery.org/cookbook/), a helpful resource for all things related to Twine.
-- Register for [itch.io](https://itch.io/).
+- Register for [itch.io](https://itch.io/). -->
 
